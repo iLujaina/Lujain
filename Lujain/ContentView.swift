@@ -17,7 +17,7 @@ struct ContentView: View {
                     .resizable()
                     .frame(width: 150, height: 150)
                     
-                Text("Lujain, \(21)")
+                Text("Wateen, \(23)")
                     .font(.title2)
                     .fontWeight(.semibold)
                 
@@ -27,7 +27,7 @@ struct ContentView: View {
             
             
             Section{
-                Text("I'am a 21-Years old with a passion for ,reading and volleyball. I love trying out new hobbies")
+                Text("I'am a 23-Years old with a passion for ,reading and volleyball. I love trying out new hobbies")
                 
             } header: {
                 Text("About")
